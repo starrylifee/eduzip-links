@@ -207,7 +207,7 @@ const App = () => {
             )}
 
             <footer className="footer">
-                <p>© 2026 서울신답초등학교 정용석</p>
+                <p>© 2026 서울신답초등학교 정용석 서울시교육청 제1호 교사개발자</p>
                 <p className="mt-1 opacity-50">Checklist & Evidence Materials Download Service</p>
             </footer>
         </div>
